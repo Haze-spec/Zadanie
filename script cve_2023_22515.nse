@@ -48,7 +48,7 @@ end
 -- NSE script registration
 local script = {
   name = "cve-2023-22515",
-  author = "Your Name",
+  author = "Haze",
   description = "Checks for CVE-2023-22515 (Confluence OGNL Injection)",
   categories = { "exploit", "vuln", "default" },
   license = "GPLv2",
